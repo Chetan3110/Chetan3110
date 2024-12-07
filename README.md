@@ -12,7 +12,7 @@ I'm **Chetan Patil**, a passionate **Machine Learning Engineer** with a foundati
   - Academic background in **data science**, **artificial intelligence**, and advanced computing techniques like **Deep Learning**, **Machine Learning**.
 
 - 💼 **Current Role**:
-  - **Associate Software Analyst [AI Engineer]** at **PTC Software**:
+  - **Software Analyst [AI Engineer]** at **PTC Software**:
     - Developed AI-assisted solutions with **Generative AI** and **RAG** to enhance productivity and automate processes.
     - Built scalable data pipelines using **Databricks** and **Delta tables**, enabling real-time microservice data extraction.
     - Contributed to the **ThingWorx Analytics R&D Team**, improving enterprise data handling and system scalability.
@@ -44,33 +44,6 @@ I'm **Chetan Patil**, a passionate **Machine Learning Engineer** with a foundati
 - Developed a machine learning model using Python tools to analyze graphical weather reports and predict daily summaries accurately, minimizing false positives and optimizing accuracy metrics.
 - Conducted extensive research in **object detection** and **image processing**, resulting in published works and practical solutions.
 - Developed project to identify **deepfake images/videos**, enhancing cybersecurity capabilities on a provided dataset.
-
----
-
-## 🏆 Notable Projects & Recognitions
-
-### 1. **AI-Assisted Product Support System**
-- Developed using **Generative AI** and **RAG** to streamline internal workflows and automate data updates.
-- Resulted in significant productivity gains and workload reduction for two key teams.
-
-### 2. **Ship Detection in Aerial Images**
-- Achieved **96% accuracy** using **YOLOv4** for ship identification in aerial datasets.
-- Published as an IEEE research paper.
-
-### 3. **Deepfake Detection System**
-- Built a state-of-the-art solution for detecting fabricated images/videos with **CNN** and **TensorFlow**.
-- Won **1st place** in the State Level Hackathon.
-
-### 4. **Weather Forecast Predictions **
-- Developed a machine learning model using Python tools to analyze graphical weather reports and predict daily summaries accurately, minimizing false positives and optimizing accuracy metrics. 
-- Secured **4th place** in **Online Data Science Hackathon by EICT Academy, IIT Kanpur, National level**.
-
-### 5. **License Plate Detection**
-- A robust solution using **YOLOv4** and **OpenCV**, applied in real-world scenarios for vehicle identification.
-
-### 6. **Plagiarism Checker Tool**
-- Registered and copyrighted tool leveraging **cosine similarity** to detect text plagiarism with high precision.
-
 
 ---
 
