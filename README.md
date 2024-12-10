@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
-      <img src="AVATAR.png" alt="Chetan Patil" width="2048">
+      <img src="AVATAR.png" alt="Chetan Patil" width="1024">
     </td>
     <td valign="top">
       <p>
