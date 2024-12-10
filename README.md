@@ -7,7 +7,7 @@
     </td>
     <td valign="top">
       <p>
-        I'm <b>Chetan Patil</b>, a passionate **Machine Learning Engineer** with a foundation in data science, Artificial Intelligence, and advanced technologies. My aim is to transform unstructured **dark data** into actionable insights, crafting innovative solutions that solve real-world challenges. I thrive in dynamic environments, always striving to deliver impactful results while embracing continuous learning.
+        I'm <b>Chetan Patil</b>, a passionate <b>Machine Learning Engineer</b> with a foundation in data science, Artificial Intelligence, and advanced technologies. My aim is to transform unstructured <b>dark data</b> into actionable insights, crafting innovative solutions that solve real-world challenges. I thrive in dynamic environments, always striving to deliver impactful results while embracing continuous learning.
       </p>
     </td>
   </tr>
