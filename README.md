@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!✨
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <img src="AVATAR.png" alt="Chetan Patil" width="2048">
