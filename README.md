@@ -1,11 +1,11 @@
 # 👋 Welcome to My GitHub Profile!✨
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="AVATAR.png" alt="Chetan Patil" width="2048">
     </td>
-    <td>
+    <td valign="top">
       <p>
         I'm **Chetan Patil**, a passionate **Machine Learning Engineer** with a foundation in data science, Artificial Intelligence, and advanced technologies. My mission is to transform unstructured **dark data** into actionable insights, crafting innovative solutions that solve real-world challenges. I thrive in dynamic environments, always striving to deliver impactful results while embracing continuous learning.
       </p>
