@@ -1,5 +1,7 @@
 # 👋 Welcome to My GitHub Profile!✨
 
+![Chetan Patil - Machine Learning Engineer](AVATAR.png)
+
 I'm **Chetan Patil**, a passionate **Machine Learning Engineer** with a foundation in data science, Artificial Intelligence, and advanced technologies. My mission is to transform unstructured **dark data** into actionable insights, crafting innovative solutions that solve real-world challenges. I thrive in dynamic environments, always striving to deliver impactful results while embracing continuous learning.
 
 ---
