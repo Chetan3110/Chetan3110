@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="AVATAR.png" alt="Chetan Patil" width="1024">
+      <img src="AVATAR.png" alt="Chetan Patil" width="1536">
     </td>
     <td valign="top">
       <p>
