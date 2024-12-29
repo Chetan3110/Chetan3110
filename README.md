@@ -23,10 +23,10 @@
   - Academic background in **data science**, **artificial intelligence**, and advanced computing techniques like **Deep Learning**, **Machine Learning**.
 
 - 💼 **Current Role**:
-  - **Software Analyst [AI Engineer]** at **PTC Software**:
+  - **Software Analyst [AI Engineer]**:
     - Developed AI-assisted solutions with **Generative AI** and **RAG** to enhance productivity and automate processes.
     - Built scalable data pipelines using **Databricks** and **Delta tables**, enabling real-time microservice data extraction.
-    - Contributed to the **ThingWorx Analytics R&D Team**, improving enterprise data handling and system scalability.
+    - Contributed to the **R&D Team**, improving enterprise data handling and system scalability.
 
 - 🏆 **Key Achievements**:
   - **State Level Hackathon Champion**: First place for developing a **Deepfake Detection System** using deep learning techniques.
