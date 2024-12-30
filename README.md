@@ -19,7 +19,6 @@
 
 - 🎓 **Education**: 
   - **BE in Computer Engineering** from Savitribai Phule Pune University (Pimpri Chinchwad College of Engineering and Research, Ravet).
-    - Graduated with **CGPA: 9.55/10**.
   - Academic background in **data science**, **artificial intelligence**, and advanced computing techniques like **Deep Learning**, **Machine Learning**.
 
 - 💼 **Current Role**:
