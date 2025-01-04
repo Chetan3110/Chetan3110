@@ -61,9 +61,13 @@
 
 Let's collaborate on innovative projects or share ideas about the latest in AI and technology. Reach out to me:
 
-- 📧 **Email**: [chetan0361@gmail.com](mailto:chetan0361@gmail.com)
-- 💼 **LinkedIn**: [Chetan Patil](https://linkedin.com/in/ChetanPatil)
-- 🌟 **GitHub**: [ChetanPatil3110](https://github.com/ChetanPatil3110)
+# Connect with Me
+
+- ![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white) **Email**: [chetan0361@gmail.com](mailto:chetan0361@gmail.com)  
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white) **LinkedIn**: [Chetan Patil](https://linkedin.com/in/ChetanPatil)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) **GitHub**: [ChetanPatil3110](https://github.com/ChetanPatil3110)  
+- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white) **Kaggle**: [chetan0361]([https://www.kaggle.com/chetanpatil](https://www.kaggle.com/chetan0361))  
+- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-fcc42d?style=flat&logo=HuggingFace&logoColor=black) **Hugging Face**: [Chetan3110]([https://huggingface.co/ChetanPatil](https://huggingface.co/Chetan3110))  
 
 ---
 
